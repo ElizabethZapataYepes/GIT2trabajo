@@ -1,2 +1,8 @@
 poniendo en practica lo que se vieron en las clases anteriores
 que es un sistema de control de versiones
+
+ramas como ignorar archivos para no ser comprometidos en el area de de trabajo cambiar
+de ramas y volver a la principal 
+
+
+
